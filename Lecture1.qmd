@@ -57,7 +57,7 @@ Last 5 years
 %%{init: {
     'theme': 'base',
     'themeVariables': {
-      'fontSize': '18px',
+      'fontSize': '20px',
       'primaryColor': '#ffffff',
       'primaryTextColor': '#000000',
       'primaryBorderColor': '##ffffff',
@@ -77,7 +77,7 @@ section Suspension era- <br>TDM essential for all patients
 section Gastroresistant tablet-IV era- <br> TDM still needed?
   2013: FDA approval of posaconazole ER tablets 
   2015: FDA approval of posaconazole IV formulation: Cornely et al. JAC
-  2021: Maertens et al. Lancet Phase III treatment data
+  2021: Phase III treatment data : Maertens et al. Lancet 
 section Post-routine TDM era <br> which patients?
   2025: ???
   
