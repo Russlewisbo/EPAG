@@ -48,10 +48,6 @@ Last 5 years
 :::
 
 ## Timeline of posaconazole TDM {.smaller}
-```{r}
-
-```
-
 ```{mermaid}
 %%{init: {
     'theme': 'base',
@@ -86,7 +82,7 @@ section Targeted TDM- <br> which patients?
 
 ::: aside
 
-[@cornely2007; @cornely2017; @jang2010; @maertens2021; @maertens2023; @ullmann2007; @walsh2007]
+[@cornely2007; @ullmann2007; @walsh2007; @jang2010; @cornely2017; @maertens2021; @maertens2023]
 :::
 
 ## References
