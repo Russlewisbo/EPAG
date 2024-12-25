@@ -33,13 +33,31 @@ revealjs-plugins:
 
 ## Disclosures {background-image="images/bloodsample.jpg" background-opacity="0.2"}
 
+<br>
+
+-   **Royalities:** UptoDate
+
+-   **Research support:** Gilead Inc.
+
+-   **Speaking:** Avir, Gilead, F2G, Pfizer
+
+-   **Advisory:** Gilead, F2G, Synexis, Basilea, Cidara
+
+::: aside
+Last 5 years
+:::
+
 ## Three Eras of Posaconazole TDM
 
+```{r}
+
+```
+
 ```{mermaid}
-%%{
-  init: {
+%%{init: {
     'theme': 'base',
     'themeVariables': {
+      'fontSize': '18px',
       'primaryColor': '#ffffff',
       'primaryTextColor': '#000000',
       'primaryBorderColor': '##ffffff',
@@ -55,7 +73,7 @@ timeline
 section Suspension era- <br>TDM essential for all patients
   2006: Suspension formulation approved by the FDA, EMA
   2007: Prophylaxis and refractory IA data: Cornely et al. NEJM <br> Ullmann et al. NEJM <br> Walsh et al. CID 
-  2010: TDM targets: Jang et al. : Prophylaxis > 700 ng/mL treatment <br>  1000 ng/mL
+  2010: TDM targets: Jang et al. CP&T : Prophylaxis > 700 ng/mL treatment <br>  1000 ng/mL
 section Gastroresistant tablet-IV era- <br> TDM still needed?
   2013: FDA approval of posaconazole ER tablets 
   2015: FDA approval of posaconazole IV formulation: Cornely et al. JAC

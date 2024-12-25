@@ -6,11 +6,11 @@
 <script src="Lecture1_files/libs/quarto-html/tippy.umd.min.js"></script>
 <link href="Lecture1_files/libs/quarto-html/tippy.css" rel="stylesheet">
 <link href="Lecture1_files/libs/quarto-html/light-border.css" rel="stylesheet">
-<link href="Lecture1_files/libs/quarto-html/quarto-syntax-highlighting-e26003cea8cd680ca0c55a263523d882.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="Lecture1_files/libs/quarto-html/quarto-syntax-highlighting-29e2c20b02301cfff04dc8050bf30c7e.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="Lecture1_files/libs/quarto-contrib/glightbox/glightbox.min.js"></script>
 <link href="Lecture1_files/libs/quarto-contrib/glightbox/glightbox.min.css" rel="stylesheet">
 <link href="Lecture1_files/libs/quarto-contrib/glightbox/lightbox.css" rel="stylesheet"><meta charset="utf-8">
-  <meta name="generator" content="quarto-1.6.39">
+  <meta name="generator" content="quarto-1.6.37">
 
   <title>lecture1</title>
   <meta name="apple-mobile-web-app-capable" content="yes">
@@ -142,6 +142,19 @@
 <p><strong>Russell E. Lewis</strong>, Pharm.D., FCCP <br> Associate Professor of Infectious Diseases <br> Department of Molecular Medicine <br> University of Padua <br> <br></p>
 <p><a href="images/University_of_Padua_seal.svg" class="lightbox" data-gallery="quarto-lightbox-gallery-1"><img data-src="images/University_of_Padua_seal.svg" width="125"></a></p>
 </section>
+<section id="disclosures" class="slide level2" data-background-image="images/bloodsample.jpg" data-background-opacity="0.2">
+<h2>Disclosures</h2>
+<p><br></p>
+<ul>
+<li><p><strong>Royalities:</strong> UptoDate</p></li>
+<li><p><strong>Research support:</strong> Gilead Inc.</p></li>
+<li><p><strong>Speaking:</strong> Avir, Gilead, F2G, Pfizer</p></li>
+<li><p><strong>Advisory:</strong> Gilead, F2G, Synexis, Basilea, Cidara</p></li>
+</ul>
+
+<aside><div>
+<p>Last 5 years</p>
+</div></aside></section>
 <section id="three-eras-of-posaconazole-tdm" class="slide level2">
 <h2>Three Eras of Posaconazole TDM</h2>
 <div class="cell" data-reveal="true" data-layout-align="default">
@@ -149,10 +162,10 @@
 <div>
 <p></p><figure class=""><p></p>
 <div>
-<pre class="mermaid mermaid-js">%%{
-  init: {
+<pre class="mermaid mermaid-js">%%{init: {
     'theme': 'base',
     'themeVariables': {
+      'fontSize': '18px',
       'primaryColor': '#ffffff',
       'primaryTextColor': '#000000',
       'primaryBorderColor': '##ffffff',
@@ -168,7 +181,7 @@ timeline
 section Suspension era- &lt;br&gt;TDM essential for all patients
   2006: Suspension formulation approved by the FDA, EMA
   2007: Prophylaxis and refractory IA data: Cornely et al. NEJM &lt;br&gt; Ullmann et al. NEJM &lt;br&gt; Walsh et al. CID 
-  2010: TDM targets: Jang et al. : Prophylaxis &gt; 700 ng/mL treatment &lt;br&gt;  1000 ng/mL
+  2010: TDM targets: Jang et al. CP&amp;T : Prophylaxis &gt; 700 ng/mL treatment &lt;br&gt;  1000 ng/mL
 section Gastroresistant tablet-IV era- &lt;br&gt; TDM still needed?
   2013: FDA approval of posaconazole ER tablets 
   2015: FDA approval of posaconazole IV formulation: Cornely et al. JAC
@@ -409,6 +422,82 @@ section Post-routine TDM era &lt;br&gt; which patients?
         ]
       });
     </script>
+    
+
+    <script>
+
+      // htmlwidgets need to know to resize themselves when slides are shown/hidden.
+
+      // Fire the "slideenter" event (handled by htmlwidgets.js) when the current
+
+      // slide changes (different for each slide format).
+
+      (function () {
+
+        // dispatch for htmlwidgets
+
+        function fireSlideEnter() {
+
+          const event = window.document.createEvent("Event");
+
+          event.initEvent("slideenter", true, true);
+
+          window.document.dispatchEvent(event);
+
+        }
+
+    
+
+        function fireSlideChanged(previousSlide, currentSlide) {
+
+          fireSlideEnter();
+
+    
+
+          // dispatch for shiny
+
+          if (window.jQuery) {
+
+            if (previousSlide) {
+
+              window.jQuery(previousSlide).trigger("hidden");
+
+            }
+
+            if (currentSlide) {
+
+              window.jQuery(currentSlide).trigger("shown");
+
+            }
+
+          }
+
+        }
+
+    
+
+        // hookup for slidy
+
+        if (window.w3c_slidy) {
+
+          window.w3c_slidy.add_observer(function (slide_num) {
+
+            // slide_num starts at position 1
+
+            fireSlideChanged(null, w3c_slidy.slides[slide_num - 1]);
+
+          });
+
+        }
+
+    
+
+      })();
+
+    </script>
+
+    
+
     <script id="quarto-html-after-body" type="application/javascript">
     window.document.addEventListener("DOMContentLoaded", function (event) {
       const toggleBodyColorMode = (bsSheetEl) => {
