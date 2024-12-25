@@ -27,7 +27,7 @@ revealjs-plugins:
 
 <br> <br> <br> <br>
 
-**Russell E. Lewis**, Pharm.D., FCCP <br> Associate Professor of Infectious Diseases <br> Department of Molecular Medicine <br> University of Padua <br> <br>
+**Russell E. Lewis**, **Pharm.D., FCCP** <br> Associate Professor of Infectious Diseases <br> Department of Molecular Medicine <br> University of Padua <br> <br>
 
 ![](images/University_of_Padua_seal.svg){width="125"}
 
@@ -47,8 +47,7 @@ revealjs-plugins:
 Last 5 years
 :::
 
-## Three Eras of Posaconazole TDM
-
+## Timeline of posaconazole TDM {.smaller}
 ```{r}
 
 ```
@@ -57,13 +56,14 @@ Last 5 years
 %%{init: {
     'theme': 'base',
     'themeVariables': {
-      'fontSize': '20px',
-      'primaryColor': '#ffffff',
+      'fontFamily': "Arial, sans-serif",
+      'fontSize': '24px',
+      'primaryColor': '#cfe2f3',
       'primaryTextColor': '#000000',
       'primaryBorderColor': '##ffffff',
       'lineColor': '#000000',
-      'secondaryColor': '#ffffff',
-      'tertiaryColor': '#ffffff'
+      'secondaryColor': '#d9ead3',
+      'tertiaryColor': '#fce5cd'
     }
   }
 }%%
@@ -72,15 +72,21 @@ Last 5 years
 timeline
 section Suspension era- <br>TDM essential for all patients
   2006: Suspension formulation approved by the FDA, EMA
-  2007: Prophylaxis and refractory IA data: Cornely et al. NEJM <br> Ullmann et al. NEJM <br> Walsh et al. CID 
-  2010: TDM targets: Jang et al. CP&T : Prophylaxis > 700 ng/mL treatment <br>  1000 ng/mL
-section Gastroresistant tablet-IV era- <br> TDM still needed?
+  2007: Prophylaxis and refractory IA data: Cornely et al. NEJM; <br> Ullmann et al. NEJM; <br> Walsh et al. CID 
+  2010: TDM targets- Prophylaxis > 700 ng/mL treatment: Jang et al. CP&T 
+section New formulations- <br> TDM still essential?
   2013: FDA approval of posaconazole ER tablets 
   2015: FDA approval of posaconazole IV formulation: Cornely et al. JAC
-  2021: Phase III treatment data : Maertens et al. Lancet 
-section Post-routine TDM era <br> which patients?
+  2021: Phase III treatment data: Maertens et al. Lancet 
+  2023: No observed ER relationship: Maertens et al. Clin Drug Investig
+section Targeted TDM- <br> which patients?
   2025: ???
   
 ```
+
+::: aside
+
+[@cornely2007; @cornely2017; @jang2010; @maertens2021; @maertens2023; @ullmann2007; @walsh2007]
+:::
 
 ## References

@@ -30,7 +30,27 @@
       margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
       vertical-align: middle;
     }
-  </style>
+    /* CSS for citations */
+    div.csl-bib-body { }
+    div.csl-entry {
+      clear: both;
+      margin-bottom: 0em;
+    }
+    .hanging-indent div.csl-entry {
+      margin-left:2em;
+      text-indent:-2em;
+    }
+    div.csl-left-margin {
+      min-width:2em;
+      float:left;
+    }
+    div.csl-right-inline {
+      margin-left:2em;
+      padding-left:1em;
+    }
+    div.csl-indent {
+      margin-left: 2em;
+    }  </style>
   <link rel="stylesheet" href="Lecture1_files/libs/revealjs/dist/theme/quarto-36496153cb95db5cf00bbe82f5077378.css">
   <link href="Lecture1_files/libs/revealjs/plugin/quarto-line-highlight/line-highlight.css" rel="stylesheet">
   <link href="Lecture1_files/libs/revealjs/plugin/reveal-menu/menu.css" rel="stylesheet">
@@ -139,7 +159,7 @@
 <section id="posaconazole-therapeutic-drug-monitoring-where-do-we-stand" class="slide level2" data-background-image="images/bloodsample.jpg" data-background-opacity="0.2">
 <h2>Posaconazole therapeutic drug monitoring: <br>Where do we stand?</h2>
 <p><br> <br> <br> <br></p>
-<p><strong>Russell E. Lewis</strong>, Pharm.D., FCCP <br> Associate Professor of Infectious Diseases <br> Department of Molecular Medicine <br> University of Padua <br> <br></p>
+<p><strong>Russell E. Lewis</strong>, <strong>Pharm.D., FCCP</strong> <br> Associate Professor of Infectious Diseases <br> Department of Molecular Medicine <br> University of Padua <br> <br></p>
 <p><a href="images/University_of_Padua_seal.svg" class="lightbox" data-gallery="quarto-lightbox-gallery-1"><img data-src="images/University_of_Padua_seal.svg" width="125"></a></p>
 </section>
 <section id="disclosures" class="slide level2" data-background-image="images/bloodsample.jpg" data-background-opacity="0.2">
@@ -155,8 +175,8 @@
 <aside><div>
 <p>Last 5 years</p>
 </div></aside></section>
-<section id="three-eras-of-posaconazole-tdm" class="slide level2">
-<h2>Three Eras of Posaconazole TDM</h2>
+<section id="timeline-of-posaconazole-tdm" class="slide level2 smaller">
+<h2>Timeline of posaconazole TDM</h2>
 <div class="cell" data-reveal="true" data-layout-align="default">
 <div class="cell-output-display">
 <div>
@@ -165,13 +185,14 @@
 <pre class="mermaid mermaid-js">%%{init: {
     'theme': 'base',
     'themeVariables': {
-      'fontSize': '20px',
-      'primaryColor': '#ffffff',
+      'fontFamily': "Arial, sans-serif",
+      'fontSize': '24px',
+      'primaryColor': '#cfe2f3',
       'primaryTextColor': '#000000',
       'primaryBorderColor': '##ffffff',
       'lineColor': '#000000',
-      'secondaryColor': '#ffffff',
-      'tertiaryColor': '#ffffff'
+      'secondaryColor': '#d9ead3',
+      'tertiaryColor': '#fce5cd'
     }
   }
 }%%
@@ -180,13 +201,14 @@
 timeline
 section Suspension era- &lt;br&gt;TDM essential for all patients
   2006: Suspension formulation approved by the FDA, EMA
-  2007: Prophylaxis and refractory IA data: Cornely et al. NEJM &lt;br&gt; Ullmann et al. NEJM &lt;br&gt; Walsh et al. CID 
-  2010: TDM targets: Jang et al. CP&amp;T : Prophylaxis &gt; 700 ng/mL treatment &lt;br&gt;  1000 ng/mL
-section Gastroresistant tablet-IV era- &lt;br&gt; TDM still needed?
+  2007: Prophylaxis and refractory IA data: Cornely et al. NEJM; &lt;br&gt; Ullmann et al. NEJM; &lt;br&gt; Walsh et al. CID 
+  2010: TDM targets- Prophylaxis &gt; 700 ng/mL treatment: Jang et al. CP&amp;T 
+section New formulations- &lt;br&gt; TDM still essential?
   2013: FDA approval of posaconazole ER tablets 
   2015: FDA approval of posaconazole IV formulation: Cornely et al. JAC
-  2021: Phase III treatment data : Maertens et al. Lancet 
-section Post-routine TDM era &lt;br&gt; which patients?
+  2021: Phase III treatment data: Maertens et al. Lancet 
+  2023: No observed ER relationship: Maertens et al. Clin Drug Investig
+section Targeted TDM- &lt;br&gt; which patients?
   2025: ???
   
 </pre>
@@ -195,10 +217,36 @@ section Post-routine TDM era &lt;br&gt; which patients?
 </div>
 </div>
 </div>
-</section>
-<section id="references" class="slide level2">
+
+<aside><div>
+<p><span class="citation" data-cites="cornely2007 cornely2017 jang2010 maertens2021 maertens2023 ullmann2007 walsh2007">(<a href="#/references" role="doc-biblioref" onclick="">Cornely et al., 2017</a>; <a href="#/references" role="doc-biblioref" onclick="">Cornely et al., 2007</a>; <a href="#/references" role="doc-biblioref" onclick="">Jang et al., 2010</a>; <a href="#/references" role="doc-biblioref" onclick="">Maertens et al., 2023</a>; <a href="#/references" role="doc-biblioref" onclick="">Maertens et al., 2021</a>; <a href="#/references" role="doc-biblioref" onclick="">Ullmann et al., 2007</a>; <a href="#/references" role="doc-biblioref" onclick="">Walsh et al., 2007</a>)</span></p>
+</div></aside></section>
+<section id="references" class="slide level2 smaller scrollable">
 <h2>References</h2>
 
+<div id="refs" class="references csl-bib-body" data-entry-spacing="0" role="list">
+<div id="ref-cornely2007" class="csl-entry" role="listitem">
+Cornely OA, Maertens J, Winston DJ, Perfect J, Ullmann AJ, Walsh TJ, et al. Posaconazole vs. Fluconazole or itraconazole prophylaxis in patients with neutropenia. The New England Journal of Medicine 2007;356:348359. <a href="https://doi.org/10.1056/NEJMoa061094">https://doi.org/10.1056/NEJMoa061094</a>.
+</div>
+<div id="ref-cornely2017" class="csl-entry" role="listitem">
+Cornely OA, Robertson MN, Haider S, Grigg A, Geddes M, Aoun M, et al. Pharmacokinetics and safety results from the Phase 3 randomized, open-label, study of intravenous posaconazole in patients at risk of invasive fungal disease. The Journal of Antimicrobial Chemotherapy 2017;72:3406–13. <a href="https://doi.org/10.1093/jac/dkx263">https://doi.org/10.1093/jac/dkx263</a>.
+</div>
+<div id="ref-jang2010" class="csl-entry" role="listitem">
+Jang SH, Colangelo PM, Gobburu JVS. Exposure-response of posaconazole used for prophylaxis against invasive fungal infections: evaluating the need to adjust doses based on drug concentrations in plasma. Clinical Pharmacology and Therapeutics 2010;88:115119. <a href="https://doi.org/10.1038/clpt.2010.64">https://doi.org/10.1038/clpt.2010.64</a>.
+</div>
+<div id="ref-maertens2023" class="csl-entry" role="listitem">
+Maertens JA, Rahav G, Lee D-G, Haider S, Ramirez-Sanchez IC, Klimko N, et al. Pharmacokinetic and Exposure Response Analysis of the Double-Blind Randomized Study of Posaconazole and Voriconazole for Treatment of Invasive Aspergillosis. Clinical Drug Investigation 2023;43:681–90. <a href="https://doi.org/10.1007/s40261-023-01282-7">https://doi.org/10.1007/s40261-023-01282-7</a>.
+</div>
+<div id="ref-maertens2021" class="csl-entry" role="listitem">
+Maertens JA, Rahav G, Lee D-G, Ponce-de-León A, Ramírez Sánchez IC, Klimko N, et al. Posaconazole versus voriconazole for primary treatment of invasive aspergillosis: a phase 3, randomised, controlled, non-inferiority trial. The Lancet 2021;397:499–509. <a href="https://doi.org/10.1016/S0140-6736(21)00219-1">https://doi.org/10.1016/S0140-6736(21)00219-1</a>.
+</div>
+<div id="ref-ullmann2007" class="csl-entry" role="listitem">
+Ullmann AJ, Lipton JH, Vesole DH, Chandrasekar P, Langston A, Tarantolo SR, et al. Posaconazole or fluconazole for prophylaxis in severe graft-versus-host disease. The New England Journal of Medicine 2007;356:335347. <a href="https://doi.org/10.1056/NEJMoa061098">https://doi.org/10.1056/NEJMoa061098</a>.
+</div>
+<div id="ref-walsh2007" class="csl-entry" role="listitem">
+Walsh TJ, Raad I, Patterson TF, Chandrasekar P, Donowitz GR, Graybill R, et al. Treatment of invasive aspergillosis with posaconazole in patients who are refractory to or intolerant of conventional therapy: An externally controlled trial. Clinical Infectious Diseases: An Official Publication of the Infectious Diseases Society of America 2007;44:212. <a href="https://doi.org/10.1086/508774">https://doi.org/10.1086/508774</a>.
+</div>
+</div>
 </section>
     </div>
   <div class="quarto-auto-generated-content" style="display: none;">
