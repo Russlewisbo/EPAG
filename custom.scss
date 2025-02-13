@@ -2,12 +2,10 @@
 
 /*-- scss:defaults --*/
 
-/*-- scss:defaults --*/
-
-@import url(./fonts/lato/Helvetica.css);
+@import url(./fonts/source-sans-pro/source-sans-pro.css);
 
 // fonts
-$font-family-sans-serif: Helvetica, sans-serif !default;
+$font-family-sans-serif: "Source Sans Pro", Helvetica, sans-serif !default;
 $font-family-monospace: SFMono-Regular, Menlo, Monaco, Consolas,
   "Liberation Mono", "Courier New", monospace !default;
 $presentation-font-size-root: 28px !default;
@@ -17,7 +15,7 @@ $presentation-line-height: 1.3 !default;
 // main colors
 $body-bg: #fff !default;
 $body-color: #222 !default;
-$heading-color: #000000 !default;
+$heading-color: #073763 !default;
 $text-muted: lighten($body-color, 30%) !default;
 
 // link colors
@@ -42,22 +40,18 @@ $presentation-heading-text-transform: none !default;
 $presentation-heading-text-shadow: none !default;
 $presentation-h1-text-shadow: none !default;
 $presentation-heading-font-weight: 600 !default;
-$presentation-h1-font-size: 2.6em !default;
+$presentation-h1-font-size: 1.8em !default;
 $presentation-h2-font-size: 1.6em !default;
 $presentation-h3-font-size: 1.2em !default;
 $presentation-h4-font-size: 1em !default;
 
 // margins
-$presentation-block-margin: 14px !default;
+$presentation-block-margin: 12px !default;
 
 // text alignment
 $presentation-slide-text-align: left !default;
  h2, h3 {
   text-align: center;
-}
-$presentation-slide-text-align: left !default;
- h3 {
-  text-align: left;
 }
 $presentation-title-slide-text-align:  center !default;
 $reveal-slide-text-align: $presentation-slide-text-align !default;
@@ -66,7 +60,7 @@ $reveal-title-slide-text-align: $presentation-title-slide-text-align !default;
 // code blocks
 $code-block-bg: $body-bg !default;
 $code-block-border-color: lighten($body-color, 60%) !default;
-$code-block-font-size: 0.40em !default;
+$code-block-font-size: 0.55em !default;
 
 // inline code
 $code-color: var(--quarto-hl-fu-color) !default;
@@ -203,14 +197,6 @@ section.has-dark-background {
     color: $dark-bg-code-color;
   }
 }
-
-.table-grid {
-    font-family: Space Mono;
-    font-size: 14pt;
-    position: relative;
-    top: 40px;
-    left: 40px;
- }
 
 #title-slide {
   text-align: $presentation-title-slide-text-align;

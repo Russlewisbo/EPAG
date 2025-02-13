@@ -48,12 +48,13 @@ Last 5 years
 :::
 
 ## Timeline of posaconazole TDM {.smaller}
+
 ```{mermaid}
 %%{init: {
     'theme': 'base',
     'themeVariables': {
       'fontFamily': "Arial, sans-serif",
-      'fontSize': '24px',
+      'fontSize': '28px',
       'primaryColor': '#cfe2f3',
       'primaryTextColor': '#000000',
       'primaryBorderColor': '##ffffff',
@@ -68,21 +69,37 @@ Last 5 years
 timeline
 section Suspension era- <br>TDM essential for all patients
   2006: Suspension formulation approved by the FDA, EMA
-  2007: Prophylaxis and refractory IA data: Cornely et al. NEJM; <br> Ullmann et al. NEJM; <br> Walsh et al. CID 
+  2007: Prophylaxis and refractory IA data: Cornely et al. NEJM: Ullmann et al. NEJM: Walsh et al. CID 
   2010: TDM targets- Prophylaxis > 700 ng/mL treatment: Jang et al. CP&T 
+  2012: "Real-life" validation of TDM targets: Dolton et al. AAC: Many other single-centre studies
 section New formulations- <br> TDM still essential?
   2013: FDA approval of posaconazole ER tablets 
   2015: FDA approval of posaconazole IV formulation: Cornely et al. JAC
   2021: Phase III treatment data: Maertens et al. Lancet 
   2023: No observed ER relationship: Maertens et al. Clin Drug Investig
 section Targeted TDM- <br> which patients?
-  2025: ???
+  2025: Extreme variablity in ICU : Single centre studies : Roberts et al. <br> SAFE-ICU <br> Inten Care Med
   
 ```
 
 ::: aside
-
-[@cornely2007; @ullmann2007; @walsh2007; @jang2010; @cornely2017; @maertens2021; @maertens2023]
+[@cornely2007; @ullmann2007; @walsh2007; @jang2010; @cornely2017; @maertens2021; @maertens2023; @roberts2025]
 :::
+
+# Case #1: Posaconazole prophylaxis post HSCT
+
+<br>
+
+-   56 year-old female patient with AML undergoing haploidentical HSCT with BuFLU conditioning
+
+-   **Prophylaxis:**
+
+    -   Micafungin 50 mg/day starting at neutropenia onset until completion of post-stem cell infusion Cy on Day+5
+
+    -   Posaconazole 300 mg BID day followed by 300 mg daily.
+
+    -   On day +10 of transplant when patient has ANC 0.1, a posaconazole trough conncetration is ordered
+
+    -   Result= 450 ng/mL
 
 ## References
