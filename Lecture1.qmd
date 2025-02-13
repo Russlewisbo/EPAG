@@ -118,13 +118,15 @@ section Targeted TDM- <br> which patients?
 
 ## Reduced bioavailibility in the setting of <br> intestinal mucositis
 
-![](images/Screenshot%202025-02-13%20at%2021.24.50.png){fig-align="center" width="750"}
+![](images/Screenshot%202025-02-13%20at%2021.24.50.png){fig-align="center" width="900"}
 
 ::: aside
 [@jansen2022]
 :::
 
-## Dose-escalation during mucositis?{background-image="images/arrow.png" background-opacity="0.2"}
+## Dose-escalation during mucositis? {background-image="images/arrow.png" background-opacity="0.2"}
+
+<br>
 
 -   Use IV formulation (if available)
 
@@ -136,6 +138,42 @@ section Targeted TDM- <br> which patients?
 
         -   Follow oral food intake?
 
-[**Will higher doses reduce the incidence of breakthrough fungal disease?**]{style="red"}
+::: aside
+[@schauwvlieghe2020]
+:::
+
+**Will higher doses reduce the risk of breakthrough fungal diseases?**
+
+## Delayed attainment of target posaconazole <br>trough concentrations after HSCT
+
+![](images/Screenshot%202025-02-13%20at%2022.02.55.png)
+
+<div>
+
+[@cao2024]
+
+</div>
+
+## Delayed attainment of target posaconazole <br>trough concentrations after HSCT
+
+![](images/posaconazole.png){fig-align="center"}
+
+<div>
+
+[@cao2024]
+
+</div>
+
+## Delayed attainment of target posaconazole <br>trough concentrations after HSCT
+
+![](images/pos.png){fig-align="center" width="1000"}
+
+<div>
+
+[@cao2024]
+
+</div>
 
 ## References
+
+rev
