@@ -90,16 +90,44 @@ section Targeted TDM- <br> which patients?
 
 <br>
 
--   56 year-old female patient with AML undergoing haploidentical HSCT with BuFLU conditioning
+-   **56 year-old female patient with AML undergoing haploidentical HSCT with BuFLU conditioning + TBI**
 
 -   **Prophylaxis:**
 
     -   Micafungin 50 mg/day starting at neutropenia onset until completion of post-stem cell infusion Cy on Day+5
 
-    -   Posaconazole 300 mg BID day followed by 300 mg daily.
+    -   Posaconazole 300 mg BID day followed by 300 mg daily
 
-    -   On day +10 of transplant when patient has ANC 0.1, a posaconazole trough conncetration is ordered
+    -   Patient is also receiving letermovir, tacrolimus, TMP/SMX and valacyclovir
 
-    -   Result= 450 ng/mL
+    -   On day +9 of transplant when patient has ANC 0.1 and Grade 2 mucositis, a posaconazole trough conncetration is ordered
+
+    -   Result= 450 ng/mL (Target \> 700 ng/mL)
+
+[**What should you do with the antifungal prophylaxis?**]{style="color:red;"}
+
+## Mucositis grading system
+
+![](images/Screenshot%202025-02-13%20at%2021.33.47.png){fig-align="center" width="1000"}
+
+<div>
+
+[@sonis1999]
+
+</div>
+
+## Reduced bioavailibility in the setting of intestinal mucositis
+
+![](images/Screenshot%202025-02-13%20at%2021.24.50.png){fig-align="center" width="800"}
+
+::: aside
+[@jansen2022]
+:::
+
+## Dose-escalation during mucositis
+
+-   Pragmatic increase of loading dose to 400 mg BID on day 1, then 400 mg daily
+
+-   Higher doses are generally well-tolerated during treat
 
 ## References
