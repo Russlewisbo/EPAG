@@ -116,18 +116,26 @@ section Targeted TDM- <br> which patients?
 
 </div>
 
-## Reduced bioavailibility in the setting of intestinal mucositis
+## Reduced bioavailibility in the setting of <br> intestinal mucositis
 
-![](images/Screenshot%202025-02-13%20at%2021.24.50.png){fig-align="center" width="800"}
+![](images/Screenshot%202025-02-13%20at%2021.24.50.png){fig-align="center" width="750"}
 
 ::: aside
 [@jansen2022]
 :::
 
-## Dose-escalation during mucositis
+## Dose-escalation during mucositis?{background-image="images/arrow.png" background-opacity="0.2"}
+
+-   Use IV formulation (if available)
 
 -   Pragmatic increase of loading dose to 400 mg BID on day 1, then 400 mg daily
 
--   Higher doses are generally well-tolerated during treat
+    -   Higher doses are generally well-tolerated during treatment of triazole-resistant isolates
+
+        -   Not always easy to predict who develops severe mucositis-citrulline test
+
+        -   Follow oral food intake?
+
+[**Will higher doses reduce the incidence of breakthrough fungal disease?**]{style="red"}
 
 ## References
