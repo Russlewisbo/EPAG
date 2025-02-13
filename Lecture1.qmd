@@ -148,21 +148,15 @@ section Targeted TDM- <br> which patients?
 
 ![](images/Screenshot%202025-02-13%20at%2022.02.55.png)
 
-<div>
-
+::: aside
 [@cao2024]
-
-</div>
+:::
 
 ## Delayed attainment of target posaconazole <br>trough concentrations after HSCT
 
 ![](images/posaconazole.png){fig-align="center"}
 
-<div>
-
 [@cao2024]
-
-</div>
 
 ## Delayed attainment of target posaconazole <br>trough concentrations after HSCT
 
@@ -175,5 +169,3 @@ section Targeted TDM- <br> which patients?
 </div>
 
 ## References
-
-rev
