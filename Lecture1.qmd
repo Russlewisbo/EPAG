@@ -86,7 +86,9 @@ section Targeted TDM- <br> which patients?
 [@cornely2007; @ullmann2007; @walsh2007; @jang2010; @cornely2017; @maertens2021; @maertens2023; @roberts2025]
 :::
 
-# Case #1: Posaconazole prophylaxis post HSCT
+## Posaconazole TDM: A standard of care?
+
+## Case #1: Posaconazole prophylaxis post HSCT
 
 <br>
 
@@ -94,17 +96,15 @@ section Targeted TDM- <br> which patients?
 
 -   **Prophylaxis:**
 
-    -   Micafungin 50 mg/day starting at neutropenia onset until completion of post-stem cell infusion Cy on Day+5
+    -   Micafungin 50 mg/day starting at neutropenia onset until completion of post-stem cell infusion of cyclophosphamide on Day+5
 
-    -   Posaconazole 300 mg BID day followed by 300 mg daily
+    -   Posaconazole ER tablets 300 mg BID day followed by 300 mg daily
 
     -   Patient is also receiving letermovir, tacrolimus, TMP/SMX and valacyclovir
 
-    -   On day +9 of transplant when patient has ANC 0.1 and Grade 2 mucositis, a posaconazole trough conncetration is ordered
+    -   On day +9 of transplant when patient has ANC 0.1 and Grade 2 mucositis, a posaconazole trough concetration is ordered
 
     -   Result= 450 ng/mL (Target \> 700 ng/mL)
-
-[**What should you do with the antifungal prophylaxis?**]{style="color:red;"}
 
 ## Mucositis grading system
 
@@ -118,10 +118,10 @@ section Targeted TDM- <br> which patients?
 
 ## Reduced bioavailibility in the setting of <br> intestinal mucositis
 
-![](images/Screenshot%202025-02-13%20at%2021.24.50.png){fig-align="center" width="900"}
+![](images/Screenshot%202025-02-13%20at%2021.24.50.png){fig-align="center" width="800"}
 
 ::: aside
-[@jansen2022]
+[@jansen2022] <br> Mucositis onset assessed through citrulline serum concentrations
 :::
 
 ## Dose-escalation during mucositis? {background-image="images/arrow.png" background-opacity="0.2"}
@@ -134,7 +134,7 @@ section Targeted TDM- <br> which patients?
 
     -   Higher doses are generally well-tolerated during treatment of triazole-resistant isolates
 
-        -   Not always easy to predict who develops severe mucositis-citrulline test
+        -   Not always easy to predict who develops severe mucositis-citrulline test not used clinically
 
         -   Follow oral food intake?
 
@@ -167,5 +167,7 @@ section Targeted TDM- <br> which patients?
 [@cao2024]
 
 </div>
+
+## Case #2: Posaconazole precision dosing?
 
 ## References
