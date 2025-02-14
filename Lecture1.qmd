@@ -98,7 +98,7 @@ section Targeted TDM- <br> which patients?
 
     -   Micafungin 50 mg/day starting at neutropenia onset until completion of post-stem cell infusion of cyclophosphamide on Day+5
 
-    -   Posaconazole ER tablets 300 mg BID day followed by 300 mg daily
+    -   Posaconazole ER tablets 300 mg BID day #1, then 300 mg daily
 
     -   Patient is also receiving letermovir, tacrolimus, TMP/SMX and valacyclovir
 
@@ -134,14 +134,16 @@ section Targeted TDM- <br> which patients?
 
     -   Higher doses are generally well-tolerated during treatment of triazole-resistant isolates
 
+        -   Hepatotoxicity, pseudohyperaldosteronism (Serum levels \> 3000 ng/mL)
+
         -   Not always easy to predict who develops severe mucositis-citrulline test not used clinically
 
         -   Follow oral food intake?
 
--   Will higher doses reduce the risk of breakthrough fungal disease?
+-   **Will higher doses reduce the risk of breakthrough fungal disease?**
 
 ::: aside
-[@schauwvlieghe2020]
+[@schauwvlieghe2020]; [@nguyen.etal_2020b]; [@davis.etal_2020b]; [@pham.etal_2016a]
 :::
 
 ## Delayed attainment of target posaconazole <br>trough concentrations after HSCT
@@ -170,9 +172,11 @@ section Targeted TDM- <br> which patients?
 
 ## Case #2: Posaconazole precision dosing?
 
+<br> <br>
+
 ::::: columns
 ::: {.column width="50%"}
-![](images/Screenshot 2025-02-14 at 06.45.38.png){fig-align="center" width="414"}
+![](images/Screenshot%202025-02-14%20at%2006.45.38.png){fig-align="center" width="414"}
 :::
 
 ::: {.column width="50%"}
@@ -199,13 +203,70 @@ section Targeted TDM- <br> which patients?
 | Posaconazole   | 0.06       | S, breakpoint= 0.25   |
 
 ::: aside
-IE- insufficient evidence for breakpoint, ECOFF- Epidemiological cut-off, S- susceptible, R- resistant
+IE- insufficient evidence for breakpoint, ECOFF- Epidemiological cut-off, S- susceptible, <br>R- resistant
 :::
 
-## Switch to posaconazole
+## Clinical management
 
--   Patient is switched from isavuconazole to posaconazole ER tablets 300 mg BID day 1, then 300 mg daily.
--   On day +5 posaconazole serum level is 710 ng/mL
--   Patient is clinically stable, fever is decreasing
+<br> <br>
 
-## References
+-   Patient is switched to posaconazole ER tablets 300 mg BID day 1, then 300 mg daily
+-   After 5 days a posaconazole trough is sent, result =710 ng/mL
+-   Patient is clinical stable, improving respiratory status and afebrile
+
+## Do we need to increase the dose?
+
+![](images/Screenshot%202025-02-14%20at%2010.53.51.png){fig-align="center"}
+
+::: aside
+Posaconazole Css 1 mg/L covers A. fumigatus up to breakpoint of 0.25 mg/L
+:::
+
+## Or just assume the MIC is 0.25 mg/L?
+
+![](images/Screenshot%202025-02-14%20at%2011.09.07.png){fig-align="center"}
+
+<div>
+
+[@mouton.etal_2018a]
+
+</div>
+
+## One other twist....
+
+<br>
+
+::::: columns
+::: {.column width="50%"}
+![](images/Screenshot%202025-02-14%20at%2006.45.38.png){fig-align="center" width="414"}
+:::
+
+::: {.column width="50%"}
+-   Patient has a serum albumin of 2.2 mg/dL
+-   Trough treatment target 1000-3750 ng/L: free drug (99%) 10-37.5 ng/mL
+-   Total posaconazole concentrations is decreased, but unbound concentration is the same and percent unbound increases \~ 2fold
+-   Because TDM results are not reported as free drug, should we "correct" free-drug posaconazole concentrations?
+:::
+:::::
+
+## Corrected total concentration of posaconazole?
+
+<br>
+
+<br>
+
+<br>
+
+$$
+C_{corr}= C_{obs}\frac{1}{\left( 0.01 + 0.99\frac{Alb}{4.4} \right)}
+$$
+
+$$
+C_{corr}= C_{obs}\frac{4.4}{Alb}
+$$
+
+$$
+C_{corr}= 1400 ng/mL
+$$
+
+# References
