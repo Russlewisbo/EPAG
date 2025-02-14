@@ -86,8 +86,6 @@ section Targeted TDM- <br> which patients?
 [@cornely2007; @ullmann2007; @walsh2007; @jang2010; @cornely2017; @maertens2021; @maertens2023; @roberts2025]
 :::
 
-## Posaconazole TDM: A standard of care?
-
 ## Case #1: Posaconazole prophylaxis post HSCT
 
 <br>
@@ -216,10 +214,12 @@ IE- insufficient evidence for breakpoint, ECOFF- Epidemiological cut-off, S- sus
 
 ## Do we need to increase the dose?
 
-![](images/Screenshot%202025-02-14%20at%2010.53.51.png){fig-align="center"}
+![](images/Screenshot%202025-02-14%20at%2010.53.51.png){fig-align="center" width="600"}
 
 ::: aside
 Posaconazole Css 1 mg/L covers A. fumigatus up to breakpoint of 0.25 mg/L
+
+[@Lewis2014]
 :::
 
 ## Or just assume the MIC is 0.25 mg/L?
@@ -253,20 +253,54 @@ Posaconazole Css 1 mg/L covers A. fumigatus up to breakpoint of 0.25 mg/L
 
 <br>
 
-<br>
-
-<br>
-
 $$
 C_{corr}= C_{obs}\frac{1}{\left( 0.01 + 0.99\frac{Alb}{4.4} \right)}
 $$
+
+<center>*simplified equation*</center>
 
 $$
 C_{corr}= C_{obs}\frac{4.4}{Alb}
 $$
 
+<center>*corrected conentration*</center>
+
 $$
 C_{corr}= 1400 ng/mL
 $$
 
-# References
+::: aside
+*Alb*- serum albumin
+
+[@nix.etal_2024]
+:::
+
+## Are the assumptions valid or close enough?
+
+![Percent unbound posaconazole versus unbound concentrations](images/Screenshot 2025-02-14 at 12.00.10.png){fig-align="center"}
+
+<div>
+
+[@jansen.etal_2022]
+
+</div>
+
+Balancing increased precision and sophistication vs. practicality?
+
+![](images/Screenshot 2025-02-14 at 12.03.41.png){fig-align="center"}
+
+::: aside
+[@jansen.etal_2024]
+:::
+
+## The reality to bring this forward?
+
+![](images/disparity.png){fig-align="center"}
+
+<div>
+
+[@Salmanton-García2023]
+
+</div>
+
+## References
