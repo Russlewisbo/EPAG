@@ -98,7 +98,7 @@ section Targeted TDM- <br> which patients?
 
     -   Micafungin 50 mg/day starting at neutropenia onset until completion of post-stem cell infusion of cyclophosphamide on Day+5
 
-    -   Posaconazole ER tablets 300 mg BID day followed by 300 mg daily
+    -   Posaconazole ER tablets 300 mg BID day #1, then 300 mg daily
 
     -   Patient is also receiving letermovir, tacrolimus, TMP/SMX and valacyclovir
 
@@ -134,19 +134,21 @@ section Targeted TDM- <br> which patients?
 
     -   Higher doses are generally well-tolerated during treatment of triazole-resistant isolates
 
+        -   Hepatotoxicity, pseudohyperaldosteronism (Serum levels \> 3000 ng/mL)
+
         -   Not always easy to predict who develops severe mucositis-citrulline test not used clinically
 
         -   Follow oral food intake?
 
-::: aside
-[@schauwvlieghe2020]
-:::
+-   **Will higher doses reduce the risk of breakthrough fungal disease?**
 
-**Will higher doses reduce the risk of breakthrough fungal diseases?**
+::: aside
+[@schauwvlieghe2020]; [@nguyen.etal_2020b]; [@davis.etal_2020b]
+:::
 
 ## Delayed attainment of target posaconazole <br>trough concentrations after HSCT
 
-![](images/Screenshot%202025-02-13%20at%2022.02.55.png)
+![](images/Screenshot%202025-02-13%20at%2022.02.55.png) <br> <br> <br>
 
 ::: aside
 [@cao2024]
@@ -169,5 +171,37 @@ section Targeted TDM- <br> which patients?
 </div>
 
 ## Case #2: Posaconazole precision dosing?
+
+::::: columns
+::: {.column width="50%"}
+![](images/Screenshot%202025-02-14%20at%2006.45.38.png){fig-align="center" width="414"}
+:::
+
+::: {.column width="50%"}
+-   65 year-old patient with AML, fever, severe respiratory difficulty following consolidation chemotherapy -absolute neutrophil count 250
+-   Patient was receiving voriconazole, but switched to isavuconazole following development of mental status changes
+-   Influenzae A positive
+-   Bronchoscopy positive for *Aspergillus terreus*, galactomannan 3.1
+-   Patient has new onset of altered mental status and confusion
+:::
+:::::
+
+## *Aspergillus terreus* antibiogram
+
+<br>
+
+| Antifungal     | MIC (mg/L) | EUCAST interpretation |
+|----------------|------------|-----------------------|
+| Amphotericin B | 4          | IE                    |
+| Anidulafungin  | \>4        | IE                    |
+| Caspofungin    | \>4        | IE                    |
+| Micafungin     | \>4        | IE                    |
+| Isavuconazle   | 2          | R                     |
+| Voriconazole   | 1          | IE, ECOFF=2           |
+| Posaconazole   | 0.06       | S, breakpoint= 0.25   |
+
+::: aside
+IE- insufficient evidence for breakpoint, ECOFF- Epidemiological cut-off, S- susceptible, <br>R- resistant
+:::
 
 ## References
