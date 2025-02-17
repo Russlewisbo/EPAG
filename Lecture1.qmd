@@ -287,7 +287,7 @@ $$
 C_{corr}= C_{obs}\frac{1}{\left( 0.01 + 0.99\frac{Alb}{4.4} \right)}
 $$
 
-<center>*simplified equation:*</center>
+<center>*simplified equation as Fu is negligible in denomiator :*</center>
 
 $$
 C_{corr}= C_{obs}\frac{4.4}{Alb}
