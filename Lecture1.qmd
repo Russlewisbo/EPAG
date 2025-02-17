@@ -54,7 +54,7 @@ Last 5 years
     'theme': 'base',
     'themeVariables': {
       'fontFamily': "Arial, sans-serif",
-      'fontSize': '28px',
+      'fontSize': '24px',
       'primaryColor': '#cfe2f3',
       'primaryTextColor': '#000000',
       'primaryBorderColor': '##ffffff',
@@ -69,9 +69,9 @@ Last 5 years
 timeline
 section Suspension era- <br>TDM essential for all patients
   2006: Suspension formulation approved by the FDA, EMA
-  2007: Prophylaxis and refractory IA data: Cornely et al. NEJM: Ullmann et al. NEJM: Walsh et al. CID 
-  2010: TDM targets- Prophylaxis > 700 ng/mL treatment: Jang et al. CP&T 
-  2012: "Real-life" validation of TDM targets: Dolton et al. AAC: Many other single-centre studies
+  2007: Prophylaxis and refractory IA data: Cornely et al. NEJM: Ullmann et al. NEJM: Treatment > 1000 ng/ml: Walsh et al. CID 
+  2010: TDM targets- prophylaxis > 700 ng/mL treatment: Jang et al. CP&T 
+  2012: "Real-life" validation of 500-700 ng/mL: Dolton et al. AAC: Many other single-centre studies
 section New formulations- <br> TDM still essential?
   2013: FDA approval of posaconazole ER tablets 
   2015: FDA approval of posaconazole IV formulation: Cornely et al. JAC
