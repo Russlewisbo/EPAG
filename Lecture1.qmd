@@ -105,7 +105,14 @@ section Targeted TDM- <br> which patients?
 
 -   Result= 450 ng/mL (Target \> 700 ng/mL)
 
+## What should we do?
 
+<br>
+
+a)  No change in dose, repeat TDM in 7 days
+b)  Increase dose of posaconazole ER tablets to 400 mg daily, repeat TDM in 7 days
+c)  Switch to IV posaconazole (if available)
+d)  Switch to oral isavuconazole or IV isavuconazole
 
 ## Mucositis grading system
 
@@ -116,15 +123,6 @@ section Targeted TDM- <br> which patients?
 [@sonis1999]
 
 </div>
-
-## What should we do?
-
-<br>
-
-a) No change in dose, repeat TDM in 7 days
-a) Increase dose of posaconazole ER tablets to 400 mg daily, repeat TDM in 7 days
-a) Switch to IV posaconazole (if available)
-a) Switch to oral isavuconazole or IV isavuconazole
 
 ## Reduced bioavailibility in the setting of <br> intestinal mucositis
 
@@ -146,19 +144,27 @@ a) Switch to oral isavuconazole or IV isavuconazole
 
         -   Hepatotoxicity, pseudohyperaldosteronism (Serum levels \> 3000 ng/mL)
 
-        -   Not always easy to predict who develops severe mucositis-citrulline test not used clinically
+        -   Not always easy to predict who develops severe mucositis- <br>citrulline biomarker not routinely used in clinic
 
-        -   Follow oral food intake?
+        -   Follow oral food intake/ Visual assessment?
 
 -   **Will higher doses reduce the risk of breakthrough fungal disease?**
 
 ::: aside
-[@schauwvlieghe2020]; [@nguyen.etal_2020b]; [@davis.etal_2020b]; [@pham.etal_2016a]
+[@schauwvlieghe2020; @nguyen.etal_2020b; @davis.etal_2020b; @pham.etal_2016a]
 :::
 
 ## Delayed attainment of target posaconazole <br>trough concentrations after HSCT
 
-![](images/Screenshot%202025-02-13%20at%2022.02.55.png) <br> <br> <br>
+![](images/Screenshot%202025-02-13%20at%2022.02.55.png){width="800"} <br> <br> <br>
+
+::: aside
+[@cao2024]
+:::
+
+## Study design
+
+![](images/gr1_lrg.jpg){fig-align="center" width="800"}
 
 ::: aside
 [@cao2024]
