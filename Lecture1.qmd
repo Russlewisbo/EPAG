@@ -23,7 +23,7 @@ revealjs-plugins:
   - pointer
 ---
 
-## Posaconazole therapeutic drug monitoring: <br> Practicality vs. precision? {background-image="images/bloodsample.jpg" background-opacity="0.2"}
+## Posaconazole therapeutic drug monitoring: <br> Precision vs. practicality? {background-image="images/bloodsample.jpg" background-opacity="0.2"}
 
 <br> <br> <br> <br>
 
@@ -69,8 +69,8 @@ Last 5 years
 timeline
 section Suspension era- <br>TDM essential for all patients
   2006: Suspension formulation approved by the FDA, EMA
-  2007: Prophylaxis and refractory IA data: Cornely et al. NEJM: Ullmann et al. NEJM: Walsh et al. CID
-  2010: TDM targets- prophylaxis > 700 ng/mL treatment: Jang et al. CP&T 
+  2007: Prophylaxis and refractory IA data: Cornely et al. NEJM: Ullmann et al. NEJM: Walsh et al. CID : Treatment > 1000 ng/mL
+  2010: TDM targets- prophylaxis > 700 ng/mL: Jang et al. CP&T 
   2012: "Real-life" validation of 500-700 ng/mL: Dolton et al. AAC: Many other single and multi centre retrospective studies : TDM incorporated in treatment guidelines
 section Gastro-resistant tablet/IV era- <br> TDM still essential?
   2013: FDA/EMA approval of posaconazole ER tablets 
