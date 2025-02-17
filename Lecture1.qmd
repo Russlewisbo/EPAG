@@ -69,40 +69,50 @@ Last 5 years
 timeline
 section Suspension era- <br>TDM essential for all patients
   2006: Suspension formulation approved by the FDA, EMA
-  2007: Prophylaxis and refractory IA data: Cornely et al. NEJM: Ullmann et al. NEJM: Treatment > 1000 ng/ml: Walsh et al. CID 
+  2007: Prophylaxis and refractory IA data: Cornely et al. NEJM: Ullmann et al. NEJM: Walsh et al. CID
   2010: TDM targets- prophylaxis > 700 ng/mL treatment: Jang et al. CP&T 
-  2012: "Real-life" validation of 500-700 ng/mL: Dolton et al. AAC: Many other single-centre studies
-section New formulations- <br> TDM still essential?
-  2013: FDA approval of posaconazole ER tablets 
-  2015: FDA approval of posaconazole IV formulation: Cornely et al. JAC
+  2012: "Real-life" validation of 500-700 ng/mL: Dolton et al. AAC: Many other single and multi centre retrospective studies : TDM incorporated in treatment guidelines
+section Gastro-resistant tablet/IV era- <br> TDM still essential?
+  2013: FDA/EMA approval of posaconazole ER tablets 
+  2015: FDA/EMA approval of posaconazole IV formulation: Cornely et al. JAC
+  2020: Toxicity threshold? : Nguyen et 2020: Pseudo- <br>hypo- <br>aldosteronism, hepatotoxicity > 3000 ng/mL
   2021: Phase III treatment data: Maertens et al. Lancet 
-  2023: No observed ER relationship: Maertens et al. Clin Drug Investig
+  2023: No observed ER relationship: Maertens et al.  <br>Clin Drug Investig
 section Targeted TDM- <br> which patients?
-  2025: Extreme variablity in ICU : Single centre studies : Roberts et al. <br> SAFE-ICU <br> Inten Care Med
+  2025: Extreme variability in ICU : Roberts et al. <br> SAFE-ICU <br> Inten Care Med
   
 ```
 
 ::: aside
-[@cornely2007; @ullmann2007; @walsh2007; @jang2010; @cornely2017; @maertens2021; @maertens2023; @roberts2025]
+[@cornely2007; @ullmann2007; @walsh2007; @jang2010; @cornely2017; @maertens2021; @maertens2023; @roberts2025; @nguyen.etal_2020b]
 :::
 
 ## Case #1: Posaconazole prophylaxis post HSCT
 
 <br>
 
--   **56 year-old female patient with AML undergoing haploidentical HSCT with BuFLU conditioning + TBI**
+1.  **56 year-old female patient with AML undergoing haploidentical HSCT with BuFLU conditioning + TBI**
 
--   **Prophylaxis:**
+**Prophylaxis:**
 
-    -   Micafungin 50 mg/day starting at neutropenia onset until completion of post-stem cell infusion of cyclophosphamide on Day+5
+-   Micafungin 50 mg/day starting at neutropenia onset until completion of ptCY on days +3,+4
 
-    -   Posaconazole ER tablets 300 mg BID day #1, then 300 mg daily
+-   Then posaconazole ER tablets 300 mg BID day #1, then 300 mg daily
 
-    -   Patient is also receiving letermovir, tacrolimus, TMP/SMX and valacyclovir
+-   Patient is also receiving letermovir, tacrolimus, mycophenolate valacyclovir
 
-    -   On day +9 of transplant when patient has ANC 0.1 and Grade 2 mucositis, a posaconazole trough concetration is ordered
+-   On day +9 of transplant when patient has ANC 0.1 and Grade 2 mucositis, a posaconazole trough concentration is ordered
 
-    -   Result= 450 ng/mL (Target \> 700 ng/mL)
+-   Result= 450 ng/mL (Target \> 700 ng/mL)
+
+## What should we do?
+
+<br>
+
+a) No change in dose, repeat TDM in 7 days
+a) Increase dose of posaconazole ER tablets to 400 mg daily, repeat TDM in 7 days
+a) Switch to IV posaconazole (if available)
+a) Switch to isavuconazole
 
 ## Mucositis grading system
 
@@ -156,7 +166,9 @@ section Targeted TDM- <br> which patients?
 
 ![](images/posaconazole.png){fig-align="center"}
 
+::: aside
 [@cao2024]
+:::
 
 ## Delayed attainment of target posaconazole <br>trough concentrations after HSCT
 
