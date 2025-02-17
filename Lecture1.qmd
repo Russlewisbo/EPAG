@@ -23,7 +23,7 @@ revealjs-plugins:
   - pointer
 ---
 
-## Posaconazole therapeutic drug monitoring: <br>Where do we stand? {background-image="images/bloodsample.jpg" background-opacity="0.2"}
+## Posaconazole therapeutic drug monitoring: <br> Practicality vs. precision? {background-image="images/bloodsample.jpg" background-opacity="0.2"}
 
 <br> <br> <br> <br>
 
