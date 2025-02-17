@@ -23,7 +23,7 @@ revealjs-plugins:
   - pointer
 ---
 
-## Posaconazole therapeutic drug monitoring: <br> Precision vs. practicality? {background-image="images/bloodsample.jpg" background-opacity="0.2"}
+## Posaconazole therapeutic drug monitoring: <br> Precision vs. pragmatism? {background-image="images/bloodsample.jpg" background-opacity="0.2"}
 
 <br> <br> <br> <br>
 
@@ -79,7 +79,7 @@ section Gastro-resistant tablet/IV era- <br> TDM still essential?
   2021: Phase III treatment data: Maertens et al. Lancet 
   2023: No observed ER relationship: Maertens et al.  <br>Clin Drug Investig
 section Targeted TDM- <br> which patients?
-  2025: Extreme variability in ICU : Roberts et al. <br> SAFE-ICU <br> Inten Care Med
+  2025: Wide PK variability in ICU : Roberts et al. <br> SAFE-ICU <br> Inten Care Med
   
 ```
 
@@ -144,9 +144,9 @@ d)  Switch to oral isavuconazole or IV isavuconazole
 
         -   Hepatotoxicity, pseudohyperaldosteronism (serum levels \> 3000 ng/mL)
 
-        -   Not always easy to predict who develops severe mucositis- <br>citrulline biomarker not routinely used in clinic
+-   Not always easy to predict who develops severe mucositis- <br>citrulline biomarker not routinely used in clinic
 
-        -   Follow oral food intake/ Visual assessment?
+    -   Follow oral food intake/ Visual assessment?
 
 -   **Will higher doses reduce the risk of breakthrough fungal disease?**
 
@@ -202,7 +202,7 @@ Primary study endpoint: Incidence of breakthrough IFIs
 ::: {.column width="50%"}
 -   65 year-old patient with AML, fever, severe respiratory difficulty following consolidation chemotherapy -absolute neutrophil count 250
 -   Patient was receiving voriconazole, but switched to isavuconazole following development of mental status changes
--   Influenzae - oseltamivir
+-   Influenzae A positive- oseltamivir
 -   Bronchoscopy positive for *Aspergillus terreus*, galactomannan 3.1
 :::
 :::::
@@ -231,7 +231,7 @@ IE- insufficient evidence for breakpoint, ECOFF- Epidemiological cut-off, S- sus
 
 -   Patient is switched to posaconazole ER tablets 300 mg BID day 1, then 300 mg daily
 -   After 5 days a posaconazole trough is sent, result =710 ng/mL
--   Patient is clinical stable, improving respiratory status and afebrile
+-   Patient is clinically stable, improving respiratory status and afebrile
 
 ## What do you do?
 
