@@ -101,7 +101,7 @@ section Targeted TDM- <br> which patients?
 
     -   Patient is also started on letermovir, tacrolimus, mycophenolate, valacyclovir
 
--   On day +9 of transplant when patient has ANC 0.1 and mucositis (still can swallow solid food), a posaconazole trough concentration is ordered
+-   On day +9 of transplant when patient has ANC 50 and mucositis (still can swallow solid food), a posaconazole trough concentration is ordered
 
 -   Result= 450 ng/mL (Target \> 700 ng/mL)
 
