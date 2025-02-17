@@ -323,7 +323,7 @@ $$
 [@jansen.etal_2024]
 :::
 
-## The reality to bring this forward?
+## The reality?
 
 ![](images/disparity.png){fig-align="center"}
 
