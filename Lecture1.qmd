@@ -105,14 +105,7 @@ section Targeted TDM- <br> which patients?
 
 -   Result= 450 ng/mL (Target \> 700 ng/mL)
 
-## What should we do?
 
-<br>
-
-a) No change in dose, repeat TDM in 7 days
-a) Increase dose of posaconazole ER tablets to 400 mg daily, repeat TDM in 7 days
-a) Switch to IV posaconazole (if available)
-a) Switch to isavuconazole
 
 ## Mucositis grading system
 
@@ -123,6 +116,15 @@ a) Switch to isavuconazole
 [@sonis1999]
 
 </div>
+
+## What should we do?
+
+<br>
+
+a) No change in dose, repeat TDM in 7 days
+a) Increase dose of posaconazole ER tablets to 400 mg daily, repeat TDM in 7 days
+a) Switch to IV posaconazole (if available)
+a) Switch to oral isavuconazole or IV isavuconazole
 
 ## Reduced bioavailibility in the setting of <br> intestinal mucositis
 
