@@ -91,17 +91,17 @@ section Targeted TDM- <br> which patients?
 
 <br>
 
-1.  **56 year-old female patient with AML undergoing haploidentical HSCT with BuFLU conditioning + TBI**
+-   **56 year-old female patient with AML undergoing haploidentical HSCT with myeloablative BuFLU -thiotepa**
 
-**Prophylaxis:**
+-   **Prophylaxis:**
 
--   Micafungin 50 mg/day starting at neutropenia onset until completion of ptCY on days +3,+4
+    -   Micafungin 50 mg/day starting at neutropenia onset until completion of PTCy on days +3,+4
 
--   Then posaconazole ER tablets 300 mg BID day #1, then 300 mg daily
+    -   Posaconazole ER tablets 300 mg BID day #1, then 300 mg daily starting day+5
 
--   Patient is also receiving letermovir, tacrolimus, mycophenolate valacyclovir
+    -   Patient is also started on letermovir, tacrolimus, mycophenolate, valacyclovir
 
--   On day +9 of transplant when patient has ANC 0.1 and Grade 2 mucositis, a posaconazole trough concentration is ordered
+-   On day +9 of transplant when patient has ANC 0.1 and mucositis (still can swallow solid food), a posaconazole trough concentration is ordered
 
 -   Result= 450 ng/mL (Target \> 700 ng/mL)
 
@@ -142,7 +142,7 @@ d)  Switch to oral isavuconazole or IV isavuconazole
 
     -   Higher doses are generally well-tolerated during treatment of triazole-resistant isolates
 
-        -   Hepatotoxicity, pseudohyperaldosteronism (Serum levels \> 3000 ng/mL)
+        -   Hepatotoxicity, pseudohyperaldosteronism (serum levels \> 3000 ng/mL)
 
         -   Not always easy to predict who develops severe mucositis- <br>citrulline biomarker not routinely used in clinic
 
@@ -156,7 +156,7 @@ d)  Switch to oral isavuconazole or IV isavuconazole
 
 ## Delayed attainment of target posaconazole <br>trough concentrations after HSCT
 
-![](images/Screenshot%202025-02-13%20at%2022.02.55.png){width="800"} <br> <br> <br>
+![](images/Screenshot%202025-02-13%20at%2022.02.55.png){fig-align="center" width="1000"}
 
 ::: aside
 [@cao2024]
@@ -164,7 +164,9 @@ d)  Switch to oral isavuconazole or IV isavuconazole
 
 ## Study design
 
-![](images/gr1_lrg.jpg){fig-align="center" width="800"}
+![](images/gr1_lrg.jpg){fig-align="center" width="600"}
+
+Primary study endpoint: Incidence of breakthrough IFIs
 
 ::: aside
 [@cao2024]
@@ -200,9 +202,8 @@ d)  Switch to oral isavuconazole or IV isavuconazole
 ::: {.column width="50%"}
 -   65 year-old patient with AML, fever, severe respiratory difficulty following consolidation chemotherapy -absolute neutrophil count 250
 -   Patient was receiving voriconazole, but switched to isavuconazole following development of mental status changes
--   Influenzae A positive
+-   Influenzae - oseltamivir
 -   Bronchoscopy positive for *Aspergillus terreus*, galactomannan 3.1
--   Patient has new onset of altered mental status and confusion
 :::
 :::::
 
@@ -216,7 +217,7 @@ d)  Switch to oral isavuconazole or IV isavuconazole
 | Anidulafungin  | \>4        | IE                    |
 | Caspofungin    | \>4        | IE                    |
 | Micafungin     | \>4        | IE                    |
-| Isavuconazle   | 2          | R                     |
+| Isavuconazole  | 2          | R                     |
 | Voriconazole   | 1          | IE, ECOFF=2           |
 | Posaconazole   | 0.06       | S, breakpoint= 0.25   |
 
@@ -232,12 +233,21 @@ IE- insufficient evidence for breakpoint, ECOFF- Epidemiological cut-off, S- sus
 -   After 5 days a posaconazole trough is sent, result =710 ng/mL
 -   Patient is clinical stable, improving respiratory status and afebrile
 
+## What do you do?
+
+<br>
+
+a)  No change in dose, repeat TDM in 7 days
+b)  Increase dose of posaconazole ER tablets to 400 mg daily, repeat TDM in 7 days
+c)  Use combination therapy
+d)  Explore options for olorofim, fosmanogepix?
+
 ## Do we need to increase the dose?
 
 ![](images/Screenshot%202025-02-14%20at%2010.53.51.png){fig-align="center" width="500"}
 
 ::: aside
-Posaconazole Css 1 mg/L covers A. fumigatus up to breakpoint of 0.25 mg/L
+Posaconazole Css 1 mg/L covers **A. fumigatus** up to breakpoint of 0.25 mg/L
 
 [@Lewis2014]
 :::
@@ -263,13 +273,13 @@ Posaconazole Css 1 mg/L covers A. fumigatus up to breakpoint of 0.25 mg/L
 
 ::: {.column width="50%"}
 -   Patient has a serum albumin of 2.2 mg/dL
--   Trough treatment target 1000-3750 ng/L: free drug (99%) 10-37.5 ng/mL
--   Total posaconazole concentrations is decreased, but unbound concentration is the same and percent unbound increases \~ 2fold
+-   Trough treatment target 1000-3750 ng/L: free drug (99% protein bound) 10-37.5 ng/mL
+-   In theory, her total serum posaconazole concentrations are decreased, but unbound concentration is the same and percent unbound actually increases \~ 2 fold
 -   Because TDM results are not reported as free drug, should we "correct" posaconazole results for low albumin?
 :::
 :::::
 
-## Corrected total concentration of posaconazole?
+## Corrected total concentration of posaconazole <br> in this patient?
 
 <br>
 
@@ -305,7 +315,7 @@ $$
 
 </div>
 
-Balancing increased precision and sophistication vs. practicality?
+## Increased precision and sophistication vs. practicality?
 
 ![](images/Screenshot%202025-02-14%20at%2012.03.41.png){fig-align="center"}
 
